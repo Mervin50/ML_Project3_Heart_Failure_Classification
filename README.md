@@ -20,9 +20,8 @@
 
      3.4 Assessing Dataset Balance
 
-     3.5 Label Encoder
-
-  #### 4. Exploratory Data Analysis
+     
+#### 4. Exploratory Data Analysis
 
      4.1 Overview of dataset using statistics
 
@@ -121,8 +120,3 @@ We have replaced our null values with median values in three columns : Age, Smok
 
 We have ratio of 32-29, so its fairly balanced dataset, so no further action is needed to balance the dataset
 
-#### 3.5 Label Encoder:
-
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/02431943-2216-41dd-8d5c-fecb38b6e757)
-
-We applied Label Encoder as we are solving classification problem and it helps for our model for better prediction. Label Encoder to transform categorical data into numerical form.
