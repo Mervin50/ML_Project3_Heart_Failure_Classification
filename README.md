@@ -181,7 +181,17 @@ Precision, Recall and F1-score of all our four models is excellent
 
 Our confusion matrix is working well
 
+# 7. Actual vs. Predicted Values:
 
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/049c2a33-3af6-463b-8462-62bfa30d4e21)
+
+
+
+# 8. Conclusion : 
+
+1. Females across all age groups tend to experience heart failure at a later stage compared to males.
+2. As people get older, the heart rate goes down as known.
+3. Majority of the people suffer from type 0 and type 2 kind of chest pain.
 
 
 
