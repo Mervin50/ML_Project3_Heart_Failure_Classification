@@ -70,48 +70,49 @@ Observation:
 
 Majority of the people in our dataset are from age groups 50 to 64.
 
-#### 4.3 Barplot to know Number of Cigarettes smoked by different age groups
+#### 4.3 Pie chart to know distribution of subjects by heart attack risk level.
 
 ![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/c9ada5eb-a143-4f07-87a6-f2702c4bd411)
 
 
 Observation:
 
-1) Cholesterol levels show significant variability, with values ranging from 126 to 564 mg/dl and a high standard deviation of 51.63 mg/dl, indicating a wide range of cholesterol levels among the subjects.
-   
-2) Mean age is 54.37 years, indicating a heart failures are mostly caused in middle-aged to elderly population.
+1) 56.5% of the subjects are at low risk of getting a heart attack, while 45.5% are at high risk.
 
-#### 4.4 Pie chart to illustrate the distribution of daily drink consumption
+#### 4.4 Plotting barplot to know heart attack risk by gender.
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/26cc1388-f290-4be4-bce4-04407baf40f5)
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/c3641a45-d70d-4017-8480-0659a99d7af0)
 
-Approximately 33% people take 2 to 3 drinks per day
+Observations:
+1) We came to know from the above plot that males are more prone to Heart attack as comapared to females
 
 #### 4.5 Barplot to know smoking and drinking habits
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/0062e1db-4d16-46cf-958f-2ea3fef6cab5)
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/22a70e48-8d12-47a3-b71c-854d9d500c34)
 
-From our barplot, we come to know that majority of people do both smoking and drinking.
+Observations :
+1) From our barplot, we come to know that majority of people do both smoking and drinking.
 
-#### 4.6 Histogram to explore the age distribution of individuals affected by lung cancer
+#### 4.6 Countplot to illustrate the distribution of chest pain
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/2bc678db-8207-4ee4-aac0-ef8afa29d600)
+![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/81037562-0508-4a6e-a742-089852055478)
 
-Majority of people affected by Lung cancer are approximately above age 47.
+Observations : 
+1) Majority of the people suffer from type 0 and type 2 kind of chest pain
 
-#### 4.7 Scatter plot to understand relationship between age and smoking habits for the individuals in the dataset
+#### 4.7 Plotting barplot to know smoking and drinking habits
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/b637479c-0ede-4527-98ce-6a261c6aa381)
+![test4](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/baa6372e-b2b1-41f6-8ebc-6e82157a553b)
 
-1) There is an outlier in our dataset where a user smokes approximately 35 cigarettes at the age of 27.
-
-2) Our data appears to be scattered.
+Observation: 
+1) As people get older, the heart rate goes down as known
    
-#### 4.8 Boxplot to visually analyze the distribution
+#### 4.8 4.6 Plotting plot to know distribution of Age among people who had Heart Attack
 
 ![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c5a59816-dca0-41ad-bac2-19a089b0c959)
 
-We plotted a box plot to visually analyze the distribution and spread of the 'Age' and 'Smokes' variables in the dataset. We were not able to see any outliers in our plot
+Observation : 
+1) Upon visual inspection, it appears that females across all age groups tend to experience heart failure at a later stage compared to males.
 
 #### 4.9 Heatmap
 
