@@ -151,11 +151,35 @@ We need to bring all the values of each column onto a common scale which will he
 
 Our x_train after standarization :
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/32f9a6dc-f184-416f-b549-c5d932e08c8b)
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/3b53c19b-6e92-464f-8d3d-4ce9414b66f8)
 
 Our x_test after standarization :
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/211856bb-5483-44fc-89f3-3e73e115cb6c)
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/cc49bc0f-db98-47e9-ba6e-84f320461cd5)
+
+# 6. Model Building and Model Evaluation
+
+#### 6.1 Calculating accuracy of our models
+
+We used Logisitc Regression, Decision Tree, Random Forest and Support Vector Machine to train our model.
+
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/4a28c411-e5fd-4627-871a-84afd4335cd7)
+
+We are getting high accuracy for all four of our machine learning models.
+
+#### 6.2 Calculating Precision, R2 score and F1 score
+
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/bf860cd9-16b3-4f0c-9483-0277187e3656)
+
+
+Precision, Recall and F1-score of all our four models is excellent
+
+#### 6.3 Calculating confusion Matrix
+
+![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/28c75668-a42e-4f0f-89ed-d0013f5a64d5)
+
+
+Our confusion matrix is working well
 
 
 
