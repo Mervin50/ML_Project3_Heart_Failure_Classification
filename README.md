@@ -24,7 +24,7 @@ The datatypes of our columns :
 
 ![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/9a73988e-e26d-4e9b-94db-4253fb3e92b1)
 
-There are 2 each null values in Smokes and Alkhol columns. There is one null value in Age column. 
+There are 2 each null values in chol and thalachh columns. There is one null value in oldpeak column. 
 
 #### 3.2 Evaluating the best technique for handling null values:
 
@@ -44,7 +44,7 @@ Plot is slightly left skewed, hence we will use median technique for Alkhol colu
 
 ![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/21b08ffb-e135-4110-8327-5b1fcae24ba5)
 
-We have replaced our null values with median values in three columns : Age, Smokes and Alkhol
+We have replaced our null values with median values in three columns : chol, oldpeak and thalachh.
 
 #### 3.4 Assessing Dataset Balance: 
 
