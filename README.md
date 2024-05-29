@@ -123,7 +123,39 @@ Observation :
 Observations :
 1) Heatmap shows us correlation between our numeric columns
 
+# 5. Polishing our data for model training
 
+#### 5.1 Outlier detection and treating using Z-score
+
+Shape of our original dataset :
+
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/f176aab6-d5a9-458e-afad-e30152d5aa9e)
+
+Shape after treating outliers :
+
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/99de1577-f8a0-4cba-a8de-f10aaad2ea4d)
+
+
+Outliers were detected. After treating the outliers, we have 287 rows remaining.
+
+#### 5.2 One-Hot Encoding :
+
+We are doing One-Hot Encoding to convert categorical variables are converted into binary vectors.
+
+![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/4264aff8-3fd4-477b-9d80-fc752fa332a7)
+
+
+#### 5.3 Standarization
+
+We need to bring all the values of each column onto a common scale which will help us to train our model effiency.
+
+Our x_train after standarization :
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/32f9a6dc-f184-416f-b549-c5d932e08c8b)
+
+Our x_test after standarization :
+
+![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/211856bb-5483-44fc-89f3-3e73e115cb6c)
 
 
 
