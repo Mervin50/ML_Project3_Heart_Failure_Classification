@@ -6,19 +6,16 @@ We developed a classification model to predict outcomes based on features. This 
 
 # 2. Description of the dataset:
 
-#### 2.1 Head of our Dataset:
-The very first step is always to check if the data needs cleaning by looking for duplicate rows, zero values or NaNs where they shouldn't be etc. The head of our dataset looks like:
+#### 2.1 Shape of our Dataset:
+Our dataset has 303 rows and 14 columns
 
-![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/25def6ab-a768-43ac-afdd-c584ea5f1b63)
-
-
-#### 2.2 Tail of our Dataset:
-The tail of our dataset looks like : 
-
-![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/410d5783-efb6-49b3-a15d-492a8ef77f4b)
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/384afdfe-6e57-4cf0-b4a4-29231a51bc69)
 
 
-Visually, we found out that there are few NaN values in our dataset
+#### 2.2 Datatypes of our columns:
+The datatypes of our columns : 
+
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/0db3b85f-faa1-43f8-bcef-b415e66b5c6b)
 
 
 # 3. Preprocessing and Data Cleaning for EDA
