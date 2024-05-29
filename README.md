@@ -1,8 +1,9 @@
 # ML_Project3_Heart_Failure_Classification
 
 <p align="center">
-  <img src="![lung-cancer image](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c051a6bd-c9a3-44fa-b6af-7a23cc8a07f7)">
+  <img src="https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c051a6bd-c9a3-44fa-b6af-7a23cc8a07f7" alt="lung-cancer image">
 </p>
+
 
 
 # 1. Introduction:
