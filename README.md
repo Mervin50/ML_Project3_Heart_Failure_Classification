@@ -1,5 +1,9 @@
 # ML_Project3_Heart_Failure_Classification
 
+<p align="center">
+  <img src="![lung-cancer image](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c051a6bd-c9a3-44fa-b6af-7a23cc8a07f7)">
+</p>
+
 
 # 1. Introduction:
 We developed a classification model to predict outcomes based on features. This model helps determine the likelihood of a positive result given these personal attributes.
