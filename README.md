@@ -100,22 +100,44 @@ Observations :
 Observations : 
 1) Majority of the people suffer from type 0 and type 2 kind of chest pain
 
-#### 4.7 Plotting barplot to know smoking and drinking habits
+#### 4.7 Plotting histogram of people who had heart attack
 
-![test4](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/baa6372e-b2b1-41f6-8ebc-6e82157a553b)
+![test1](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/49118413-50be-4f1f-a4a7-c41df7d6ac5a)
 
-Observation: 
-1) As people get older, the heart rate goes down as known
+Observations: 
+1) We observe that individuals exhibiting blood pressure, cholesterol level, and heart rate typically fall within the range of 130 to 200.
    
-#### 4.8 4.6 Plotting plot to know distribution of Age among people who had Heart Attack
+#### 4.8  Plotting boxplot to visually analyze the distribution
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/c5a59816-dca0-41ad-bac2-19a089b0c959)
+![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/3f675a05-8db7-495e-8fe4-211faf8fec4c)
+
+![test3](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/9d3ffad4-c92d-4548-a776-65ab0240d628)
 
 Observation : 
-1) Upon visual inspection, it appears that females across all age groups tend to experience heart failure at a later stage compared to males.
+1) We found out that there are outliers in following columns : trtbps, chol, fbs, thalach, oldpeak, caa and thall.
 
 #### 4.9 Heatmap
 
-![test1](https://github.com/Mervin50/ML_Project2_LungCancer_Classification/assets/167336864/56bb8c13-49e6-44e7-8969-38cb933a3297)
+![test4](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/97b70c2b-0e91-48f6-ab28-ae5b81fcdb78)
 
-Heatmap shows us correlation between our numeric columns
+Observations :
+1) Heatmap shows us correlation between our numeric columns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
