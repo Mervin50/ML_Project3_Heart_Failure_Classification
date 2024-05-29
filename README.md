@@ -68,7 +68,7 @@ Observation:
 
 ![test2](https://github.com/Mervin50/ML_Project3_Heart_Failure_Classification/assets/167336864/e5b83e02-c667-48d8-bccb-f849e828ac0c)
 
-Majority of the people in our dataset are from age groups 20 to 39.
+Majority of the people in our dataset are from age groups 50 to 64.
 
 #### 4.3 Barplot to know Number of Cigarettes smoked by different age groups
 
